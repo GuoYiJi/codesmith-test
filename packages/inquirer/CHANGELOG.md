@@ -1,5 +1,11 @@
 # @modern-js/inquirer-types
 
+## 0.1.0
+
+### Minor Changes
+
+- a98b354: fix: xx
+
 ## 2.0.5
 
 ## 2.0.4
