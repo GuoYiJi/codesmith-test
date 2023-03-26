@@ -1,3 +1,3 @@
 export default function a() {
-  return 4;
+  return 6;
 }
