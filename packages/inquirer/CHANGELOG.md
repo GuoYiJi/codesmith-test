@@ -1,5 +1,11 @@
 # @modern-js/inquirer-types
 
+## 0.1.0
+
+### Minor Changes
+
+- a9cbf90: fix: test
+
 ## 0.1.0-alpha.0
 
 ### Minor Changes
