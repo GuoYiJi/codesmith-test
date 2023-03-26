@@ -1,0 +1,8 @@
+packages:
+  - 'apps/**'
+  - 'examples/**'
+  - 'services/**'
+  - 'features/**'
+  - 'packages/**'
+  - 'packages/api/**'
+  - 'packages/easy-form/**'
